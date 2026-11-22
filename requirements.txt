@@ -3,3 +3,4 @@ requests
 numpy
 google-genai
 pydantic
+reportlab
